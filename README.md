@@ -1,0 +1,2 @@
+# ChipSeq
+Nextflow ChipSeq pipeline
